@@ -1,4 +1,4 @@
-# Hi, I'm Sandesh! 👋
+# Hi, I'm Sajan karki! 👋
 
 I'm passionate about building scalable backend systems and APIs that drive reliable, high-performance applications.
 ---
